@@ -487,8 +487,10 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	margin: 0;
 	position: relative;
 	border: 1px solid #eee;
+	width: 100%;
 }
 .grid figure img {
+	margin: auto;
 	width: 100%;
 	display: block;
 	position: relative;
